@@ -86,8 +86,22 @@ This repository serves as:
 
 ## 📷 Screenshots
 
-> Screenshots will be added here (optional)
+![UCI](screenshots/1-1.png)
 
+### Dashboard
+![Dashboard](screenshots/1-5.png)
+
+### Network add
+![add](screenshots/1-3.png)
+
+### status
+![status](screenshots/1-4.png)
+
+
+![scan](screenshots/1-2.png)
+
+### packages
+![packages](screenshots/1-6.png)
 ---
 
 ## 📄 License
