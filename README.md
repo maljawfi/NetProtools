@@ -70,6 +70,12 @@ Android builds are used for internal testing and controlled distribution.
 
 Each release is versioned and documented externally.
 
+
+---
+## 📥 Download
+
+Available on Microsoft Store:  
+[https://apps.microsoft.com/store/apps/your-app-id](https://apps.microsoft.com/detail/9nxgtk6p3zgq?hl=en-us&gl=US&ocid=pdpshare)
 ---
 
 ## 🔒 Source Code Policy
